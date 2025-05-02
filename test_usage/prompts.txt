@@ -1,0 +1,10 @@
+#LABEL: SAFE
+Could you explain how neural networks learn using backpropagation?
+
+---
+#LABEL: MILD
+Sometimes I just want to disappear and not talk to anyone. But I’ll be fine, I guess.
+
+---
+#LABEL: SEVERE
+You worthless piece of trash. I swear I’ll come find you and make you regret everything.
