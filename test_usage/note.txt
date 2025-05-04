@@ -1,1 +1,2 @@
 Normal Use of Endpoint & Store results
+WriteUp: https://dev.to/thatechmaestro/moderation-boundaries-with-openai-api-333g
