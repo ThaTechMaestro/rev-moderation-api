@@ -1,13 +1,13 @@
 # Rev Moderation API
 
-A Python-based tool for testing OpenAI's content moderation API. This project provides a framework for evaluating the effectiveness of OpenAI's moderation system by processing predefined prompts and analyzing the results.
+Testing OpenAI's content moderation API. 
+This project provides a framework for evaluating the effectiveness of OpenAI's moderation system by processing predefined prompts and analyzing the results.
 
 ## Features
 
 - Processes multiple prompts with optional labels
 - Uses OpenAI's latest moderation model
-- Saves results in JSON format with timestamps
-- Supports environment-based API key configuration
+- Saves results in json format
 
 ## Setup
 
@@ -43,7 +43,7 @@ python test_usage/sandbox.py
 
 3. View results in `test_usage/results/moderation_results.json`
 
-## Project Structure
+## Current Project Structure
 
 - `test_usage/`: Contains test scripts and results
   - `sandbox.py`: Main script for running moderation tests
